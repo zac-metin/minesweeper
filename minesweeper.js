@@ -70,3 +70,17 @@ function countSurroundingMines (cell) {
 return count;
 
 }
+
+function Easy () {
+  alert("You are already on Easy mode!");
+}
+function Moderate () {
+  alert("Computer thinks you can't handle Moderate mode.\n\nMuch apologies.")
+}
+
+function Hard () {
+  alert("Computer thinks you can't handle Hard mode\n\nMuch apologies.")
+}
+function Expert () {
+  alert("You broke computer.")
+}
